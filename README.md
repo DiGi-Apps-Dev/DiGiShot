@@ -26,16 +26,16 @@ Le schermate e i video restano sul tuo PC. DiGiShot fa parte di **DiGi Apps**, a
 ## Come si vede
 
 <p align="center">
-  <img src="schermate/editor-102.png" alt="L'editor di DiGiShot: strumenti a destra, Salva PNG, Salva PDF, Copia e Stampa in basso" width="100%">
+  <img src="schermate/editor-103.png" alt="L'editor di DiGiShot: strumenti a destra, Salva PNG, Salva PDF, Copia e Stampa in basso" width="100%">
 </p>
 
 | | |
 |---|---|
-| <img src="schermate/selezione-101.png" alt="Scelta dell'area con l'interruttore Foto / Video" width="420"> | <img src="schermate/video-101.png" alt="Prima di registrare: suono del PC, microfono, Oscura il resto e REC" width="420"> |
+| <img src="schermate/selezione-103.png" alt="Scelta dell'area con l'interruttore Foto / Video" width="420"> | <img src="schermate/video-103.png" alt="Prima di registrare: suono del PC, microfono, Oscura il resto e REC" width="420"> |
 
 | | |
 |---|---|
-| <img src="schermate/impostazioni-101.png" alt="Impostazioni" width="420"> | <img src="schermate/anteprima-video-101.png" alt="Anteprima del video registrato" width="420"> |
+| <img src="schermate/impostazioni-103.png" alt="Impostazioni" width="420"> | <img src="schermate/anteprima-video-103.png" alt="Anteprima del video registrato" width="420"> |
 
 <p align="center">
   <img src="schermate/barra-registrazione-101.png" alt="La barra durante la registrazione (sopra) e in pausa (sotto): suono del PC, microfono, Pausa, Stop, Oscura il resto" width="420">

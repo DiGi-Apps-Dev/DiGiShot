@@ -37,6 +37,10 @@ Le schermate e i video restano sul tuo PC. DiGiShot fa parte di **DiGi Apps**, a
 |---|---|
 | <img src="schermate/impostazioni.png" alt="Impostazioni" width="420"> | <img src="schermate/anteprima-video.png" alt="Anteprima del video registrato" width="420"> |
 
+<p align="center">
+  <img src="schermate/barra-registrazione.png" alt="La barra durante la registrazione (sopra) e in pausa (sotto): suono del PC, microfono, Pausa, Stop, Oscura il resto" width="420">
+</p>
+
 ## Installazione
 
 Scarica `DiGiShot-Setup-<versione>.exe` dalla pagina **Releases** e aprilo con un doppio clic.

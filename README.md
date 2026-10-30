@@ -26,7 +26,7 @@ Le schermate e i video restano sul tuo PC. DiGiShot fa parte di **DiGi Apps**, a
 ## Come si vede
 
 <p align="center">
-  <img src="schermate/editor-101.png" alt="L'editor di DiGiShot: strumenti a destra, Salva PNG, Salva PDF, Copia e Stampa in basso" width="100%">
+  <img src="schermate/editor-102.png" alt="L'editor di DiGiShot: strumenti a destra, Salva PNG, Salva PDF, Copia e Stampa in basso" width="100%">
 </p>
 
 | | |

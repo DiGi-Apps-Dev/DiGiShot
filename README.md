@@ -17,7 +17,7 @@ Le schermate e i video restano sul tuo PC. DiGiShot fa parte di **DiGi Apps**, a
 ### Cosa fa
 
 - **Un tasto e scegli l'area:** lo schermo si congela, trascini per scegliere la parte che vuoi, oppure un clic prende una finestra intera e Invio tutto lo schermo. Funziona anche con più monitor.
-- **Foto con l'editor:** frecce, linee, riquadri, ellissi, evidenziatore, testo, numeri progressivi, sfocatura, righello in pixel e ritaglio. Ogni elemento si può spostare o eliminare dopo. Le frecce quasi dritte diventano dritte da sole.
+- **Foto con l'editor:** frecce, linee, riquadri, ellissi, evidenziatore, testo, numeri progressivi, sfocatura, righello in pixel e ritaglio. Ogni elemento si può spostare o eliminare dopo. La freccia segue il mouse fluida e va dove la porti, in ogni direzione.
 - **Salva PNG, Salva PDF, Copia o Stampa:** un clic e l'editor si chiude. Copia mette l'immagine negli appunti, pronta da incollare.
 - **Video dell'area scelta** in MP4, con suono del PC e microfono a scelta, Pausa e Stop, e l'opzione **Oscura il resto** che copre quello che non registri.
 - **Alla fine del video:** anteprima ferma sul primo fotogramma, Salva MP4, Copia come file o Elimina.
@@ -65,7 +65,7 @@ Alcuni antivirus avvisano con file nuovi e non firmati anche se sono sani. Scegl
 | Ctrl+Ins | registra un video (e lo ferma) |
 | Invio | prende lo schermo intero / avvia la registrazione |
 | Esc | annulla |
-| Maiusc (mentre disegni) | linea o freccia sempre dritta |
+| Maiusc (mentre disegni) | linea sempre dritta |
 | Ctrl+Z · Canc | annulla l'ultima modifica · elimina l'elemento selezionato |
 | Ctrl+C · Ctrl+S | copia · salva PNG |
 

@@ -17,7 +17,7 @@ Le schermate e i video restano sul tuo PC. DiGiShot fa parte di **DiGi Apps**, a
 ### Cosa fa
 
 - **Un tasto e scegli l'area:** lo schermo si congela, trascini per scegliere la parte che vuoi, oppure un clic prende una finestra intera e Invio tutto lo schermo. Funziona anche con più monitor.
-- **Foto con l'editor:** frecce, linee, riquadri, ellissi, evidenziatore, testo, numeri progressivi, sfocatura, righello in pixel e ritaglio. Ogni elemento si può spostare o eliminare dopo. La freccia segue il mouse fluida e va dove la porti, in ogni direzione.
+- **Foto con l'editor:** frecce, linee, riquadri, ellissi, evidenziatore, testo, numeri progressivi, sfocatura con intensità regolabile (cresce con la grandezza dell'area), righello in pixel e ritaglio. Ogni elemento si può spostare o eliminare dopo. La freccia segue il mouse fluida e va dove la porti, in ogni direzione. Colori: rosso, giallo e la ruota per tutti gli altri.
 - **Salva PNG, Salva PDF, Copia o Stampa:** un clic e l'editor si chiude. Copia mette l'immagine negli appunti, pronta da incollare.
 - **Video dell'area scelta** in MP4, con suono del PC e microfono a scelta, Pausa e Stop, e l'opzione **Oscura il resto** che copre quello che non registri.
 - **Alla fine del video:** anteprima ferma sul primo fotogramma, Salva MP4, Copia come file o Elimina.
@@ -26,7 +26,7 @@ Le schermate e i video restano sul tuo PC. DiGiShot fa parte di **DiGi Apps**, a
 ## Come si vede
 
 <p align="center">
-  <img src="schermate/editor-103.png" alt="L'editor di DiGiShot: strumenti a destra, Salva PNG, Salva PDF, Copia e Stampa in basso" width="100%">
+  <img src="schermate/editor-106.png" alt="L'editor di DiGiShot: strumenti a destra, Salva PNG, Salva PDF, Copia e Stampa in basso" width="100%">
 </p>
 
 | | |
